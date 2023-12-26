@@ -6,5 +6,5 @@ Die Webapp habe ich für meinen Vater geschrieben, deswegen ist der Test nur in 
 Man öffnet den Link https://waldemarschroeder.github.io/ (aktuell geht das noch). <br>
 oder man downloadet dieses Repo und öffnet index.html im Browser. <br>
 
-![Result](images/result.png)
-![Result](images/arrow.png)
+![Result](images/results.png)
+![Result](images/arrows.png)
