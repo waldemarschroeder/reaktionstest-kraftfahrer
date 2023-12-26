@@ -99,7 +99,7 @@ document.onkeydown = function (e) {
                 break;
             case 2:
                 startBtn = document.getElementById("startBtn");
-                startBtn.textContent = "Start Teil 2";
+                startBtn.textContent = "Start Teil 3";
                 startBtn.style.visibility = "visible";
                 totalRounds = 100;
                 currentStage++
